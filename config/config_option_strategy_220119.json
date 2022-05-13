@@ -1,0 +1,11 @@
+{
+    "put_strike": [3850, 3950, 4050],
+    "put_quantity": [-1, -1, 1],
+    "put_price": [113, 134.9, 161.4],
+    "call_strike": [4275, 4350, 440],
+    "call_quantity": [1, -1, -1],
+    "call_price": [154.8, 116.8, 94.8],
+    "expiration": "2022-06-17",
+    "open_date": "2022-01-19",
+    "underlying_asset": "STX50"
+}
